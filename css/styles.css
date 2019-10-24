@@ -1,16 +1,5 @@
-.column{
-  background-color: #ffe6e6;
-  border: 1px solid gray;
-  padding: 1%;
-  margin: 10px auto;
-}
-
-.column h1{
+h1{
   text-align: center;
-}
-
-.column img{
-  width: 100%;
 }
 
 .about_george{
@@ -18,4 +7,30 @@
   background-color: #ffccff;
   padding: 1%;
   border: 1px solid #000;
+}
+
+.pictures {
+  width: 100%;
+}
+
+
+.column1{
+  background-color: #ffe6e6;
+  border: 1px solid gray;
+  padding: 1%;
+  margin: 10px auto;
+}
+
+.column2{
+  background-color: #ede9f2;
+  border: 1px solid gray;
+  padding: 1%;
+  margin: 10px auto;
+}
+
+.column3{
+  background-color: #f0caca;
+  border: 1px solid gray;
+  padding: 1%;
+  margin: 10px auto;
 }
